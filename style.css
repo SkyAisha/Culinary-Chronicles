@@ -1,0 +1,47 @@
+.page-title {
+  text-align: center;
+  text-shadow: 2px 2px 5px red;
+  outline-style: solid;
+  outline-color: black;
+}
+
+body {
+  background-color: bisque;
+  font-family: "Courier New", Courier, monospace;
+  padding: 2px;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+#name {
+  font-size: 15px;
+  text-align: center;
+}
+
+#favList {
+  text-align: left;
+  list-style-position: inside;
+}
+
+#Cuisine {
+  height: 40%;
+  width: 40%;
+  outline-style: solid;
+  outline-color: black;
+}
+
+.dish-img {
+  width: 400px;
+}
+
+td {
+  padding: 8px;
+  border: 1px solid black;
+}
+
+nav {
+  font-size: 20px;
+  text-decoration: underline;
+  text-decoration-color: black;
+  text-align: center;
+}
